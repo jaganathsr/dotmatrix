@@ -1,0 +1,7 @@
+<resources>
+    <fonts>
+        <!-- The id is what you'll use to reference the font in your code -->
+        <font id="CustomTimeFont" filename="fonts/nothinggarmin.fnt" filter="0123456789:" />
+        <font id="CustomFieldFont" filename="fonts/nothinggarminsmall.fnt" filter="0123456789: stepbm" />
+    </fonts>
+</resources>
